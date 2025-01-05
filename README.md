@@ -207,11 +207,13 @@ npm start
 
 ---
 
-## **Optional Enhancements**
-- Add role-based access control (e.g., admin vs. user permissions).
-- Implement token refresh logic for long-lived sessions.
-- Add pagination for fetching tasks.
-- Deploy the API to a cloud platform (e.g., AWS, Heroku).
+
+## **About me**
+Hello! I am Kratika Agarwal, a passionate full-stack developer with a keen interest in building innovative and user-friendly applications. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and have experience working on various web development projects. My primary goal is to create applications that solve real-world problems and provide an intuitive user experience.
+
+I enjoy working on both the frontend and backend, and I am always excited to explore new technologies and frameworks. I love coding and am continually looking for ways to enhance my skills and broaden my knowledge.
+
+In my free time, I enjoy exploring tech blogs, contributing to open-source projects, and learning about the latest advancements in web development and tech. Feel free to connect with me on GitHub and LinkedIn!
 
 
 
